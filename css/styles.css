@@ -361,14 +361,14 @@ main {
     justify-content: center;
     align-items: center;
     gap: 15px;
-    height: auto;
+    height: 100%;
     width: 100%;
 }
 
 .social-images img {
     width: 20px;   
-    height: auto;
-    object-fit: contain;
+    height: 20px;
+    object-fit: cover;
 }
 
 .contact-images {
